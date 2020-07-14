@@ -1,6 +1,6 @@
 # dat_to_gif
 "dat_to_gif" is a file converter with Python.
-convert datfile to giffile.
+It convert datfile(.dat) to giffile(.gif).
 
 # Requirement
 * Python 3.8.1
